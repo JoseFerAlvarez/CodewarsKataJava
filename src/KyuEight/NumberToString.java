@@ -14,6 +14,8 @@ public class NumberToString {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         System.out.println(numberToString(num));
+
+        sc.close();
     }
     
     //The code below is the solution

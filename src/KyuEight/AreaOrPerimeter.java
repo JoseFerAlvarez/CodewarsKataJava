@@ -19,6 +19,7 @@ public class AreaOrPerimeter {
         int aop = areaOrPerimeter(l,w);
         
         System.out.println(aop);
+        sc.close();
     }
     
     //The code below is the solution
