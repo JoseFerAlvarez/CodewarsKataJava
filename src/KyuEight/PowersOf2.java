@@ -30,6 +30,7 @@ public class PowersOf2 {
 
     }
 
+    //The code below is the solution
     public static long[] powersOfTwo(int n){
 
         //Declaration of variables
