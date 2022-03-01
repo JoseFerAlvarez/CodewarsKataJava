@@ -2,6 +2,13 @@ package KyuEight;
 
 import java.util.Scanner;
 
+/*@author JoseFerAlvarez
+
+--------------- Instructions -------------
+Complete the solution so that it reverses all of
+the words within the string passed in.
+---------------------------------------------*/
+
 public class ReverseWords {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
